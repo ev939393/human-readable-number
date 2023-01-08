@@ -1,5 +1,5 @@
 module.exports = function toReadable(n) {
-    let unit = ['000', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+    let unit = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
     let dozen = ['000', 'ten', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
     let elevenToNinteen = ['000', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen' , 'eighteen', 'nineteen'];
   
